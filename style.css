@@ -1,0 +1,27 @@
+.banner{
+    height: 45vh;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('image/banner.png');
+    background-size: cover;
+    background-position: center;
+}
+.banner-content{
+    height: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    
+    border: 1px solid;
+    
+}
+.banner-about{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('image/image2.png');
+    background-size: cover;
+    background-position: center;
+}
+.centered-text {
+    text-align: center;
+}
